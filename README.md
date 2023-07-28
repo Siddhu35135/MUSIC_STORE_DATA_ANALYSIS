@@ -1,1 +1,2 @@
 # MUSIC_STORE_DATA_ANALYSIS
+In this data analysis project, I aimed to examine the music playlist dataset of a Music Store with the primary objective of assisting the store to increase its profitability with SQL. By analyzing the store dataset, I seeked to uncover the insights into customer preferences, popular tracks, artists and genres, as well as identified the opportunities for targeted marketing.
